@@ -1,0 +1,2 @@
+#!/bin/sh
+python -tt -c "from ms import id_index; id_index.main();" "$@"

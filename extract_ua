@@ -1,0 +1,2 @@
+#!/bin/sh
+python -tt -c "from ms import extract_ua; extract_ua.main();" "$@"
